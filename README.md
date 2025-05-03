@@ -28,6 +28,7 @@ This project presents a data-driven analysis of crime in Los Angeles from 2020 t
 ## File Included
 - `Ogunbona_EDA_Executive_Summary.html`
 - `Ogunbona_EDA_Executive_Summary.ipynb`
+- `Ogunbona_EDA_Executive_Summary.pdf`
   
 ## How to View or Run
 
